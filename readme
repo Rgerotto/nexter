@@ -1,4 +1,4 @@
-#CSS Master Course README
+# CSS Master Course README
 
 
 Overview
@@ -7,14 +7,14 @@ This repository contains the projects I completed during the CSS Master Course o
 Course Details
 Platform: Udemy
 Course Name: CSS Master Course
-Instructor: [Instructor's Name]
+Instructor: Jonas Schmedtmann
 Topics Covered:
 SASS fundamentals
 Advanced CSS techniques
 Responsive design principles
 Utilizing display grid
 
-##Project Nexter: Realtors Listing Website
+## Project Nexter: Realtors Listing Website
 Description: This project involved creating a website where users can browse and search for luxury houses available for rent or purchase. The website also features information about realtors, including their names and contact details.
 Technologies Used: HTML, CSS, SASS, display grid
 Repository Link: https://github.com/Rgerotto/nexter
