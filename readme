@@ -1,0 +1,24 @@
+#CSS Master Course README
+
+
+Overview
+This repository contains the projects I completed during the CSS Master Course on Udemy. Throughout the course, I focused on mastering CSS with an emphasis on SASS and modern layout techniques such as display grid and flexbox.
+
+Course Details
+Platform: Udemy
+Course Name: CSS Master Course
+Instructor: [Instructor's Name]
+Topics Covered:
+SASS fundamentals
+Advanced CSS techniques
+Responsive design principles
+Utilizing display grid
+
+##Project Nexter: Realtors Listing Website
+Description: This project involved creating a website where users can browse and search for luxury houses available for rent or purchase. The website also features information about realtors, including their names and contact details.
+Technologies Used: HTML, CSS, SASS, display grid
+Repository Link: https://github.com/Rgerotto/nexter
+Conclusion
+Completing the CSS Master Course has significantly enhanced my CSS skills, particularly in utilizing SASS and mastering modern layout techniques like display grid and flexbox. I'm excited to continue exploring and applying these concepts in future projects.
+
+Feel free to explore the projects in this repository and reach out if you have any questions or feedback!
