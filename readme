@@ -1,7 +1,7 @@
-### CSS Master Course
+###CSS Master Course
 
 
-Overview
+#Overview
 This repository contains the projects I completed during the CSS Master Course on Udemy. Throughout the course, I focused on mastering CSS with an emphasis on SASS and modern layout techniques such as display grid and flexbox.
 
 Course Details
@@ -14,7 +14,7 @@ Advanced CSS techniques
 Responsive design principles
 Utilizing display grid
 
-## Project Nexter: Realtors Listing Website
+##Project Nexter: Realtors Listing Website
 Description: This project involved creating a website where users can browse and search for luxury houses available for rent or purchase. The website also features information about realtors, including their names and contact details.
 Technologies Used: HTML, CSS, SASS, display grid
 Repository Link: https://github.com/Rgerotto/nexter
