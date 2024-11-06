@@ -1,32 +1,30 @@
-# 🖌️ CSS Master Course Projects
+# CSS Master Course Projects
 Welcome to the CSS Master Course Projects Repository! This repository contains the projects I completed while taking the CSS Master Course on Udemy, focusing on SASS, Flexbox, and Grid to build responsive, modern layouts.
 
-📚 Course Details
+Course Details
 Platform: Udemy
 Course Name: CSS Master Course
 Instructor: Jonas Schmedtmann
-🎯 Topics Covered
+Topics Covered
 SASS Fundamentals: Variables, nesting, mixins, and partials.
 Advanced CSS Techniques: Animations, custom properties, and transitions.
 Responsive Design Principles: Building for mobile-first and scalable layouts.
 Modern Layouts: Using Grid and Flexbox to create complex, responsive designs.
-🌐 Project Nexter: Realtors Listing Website
-🔍 Project Overview
+Project Nexter: Realtors Listing Website
+Project Overview
 Nexter is a realtor listing website where users can browse luxury houses for rent or purchase. It includes realtor profiles, displaying their names and contact details, along with house listings.
 
-🛠️ Technologies Used
+Technologies Used
 HTML
 CSS & SASS
 Display Grid
-📂 Repository Link
-👉 Nexter Project Repository
+Repository Link
+Nexter Project Repository
 
-🚀 Conclusion
+Conclusion
 Completing this course has been invaluable for enhancing my CSS skills, especially in utilizing SASS and mastering modern layout techniques. These projects have deepened my understanding of responsive design and the power of CSS to create engaging, user-friendly layouts.
 
 I'm excited to keep exploring and applying these concepts in my future projects. Feel free to explore the projects here and reach out if you have any questions or feedback!
 
-✉️ Get in Touch
+Get in Touch
 If you’d like to connect or share feedback, please don’t hesitate to reach out!
-
-<h1>Header 1</h1>
